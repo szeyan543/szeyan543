@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Java | Python | Typescript | C 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Nodejs | Nestjs | Nextjs
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Nodejs | Nextjs
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
