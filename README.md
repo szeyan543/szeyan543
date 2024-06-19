@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp; C++ | Java | Python | Typescript | C 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | Nodejs | Nextjs
 - 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git | Docker 
 
 
 
